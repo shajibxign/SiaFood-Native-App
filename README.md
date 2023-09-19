@@ -1,3 +1,2 @@
-# Android-Native-App for Food Delivery
-# Learning Purpose
-# Minimal
+A Food Delivery Android App using React Native JS <br>
+Learning Purpose - Minimal App
